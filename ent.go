@@ -9,8 +9,6 @@ import (
 	"context"
 	"fmt"
 
-	// vendor cmd/entc
-	_ "github.com/facebookincubator/ent/cmd/entc"
 	// vendor entc
 	_ "github.com/facebookincubator/ent/entc"
 	"github.com/facebookincubator/ent/schema/edge"
